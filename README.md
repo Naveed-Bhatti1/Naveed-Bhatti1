@@ -30,9 +30,13 @@
 > ✂️ Minimal, fast URL shortener with analytics (WIP).  
 > ⚙️ **Tech:** Next.js 15, MongoDB Atlas
 
-#### 📰 Blog Post App (Work in Progress)
-> 🖋 Full-featured blog with ASP.NET Core + SQL Server.  
-> ⚙️ **Tech:** ASP.NET Core, Razor Pages, SQL Server
+#### 👤 [My Portfolio Site](https://github.com/Naveed-Bhatti1/My-Portfolio)(Work in Progress)
+> 🖋 Minimal, Clean, and professional UI based Single page site. 
+> ⚙️ **Tech:** Next.js 16, Framer-Motion
+
+#### 🧰 [smork - SAAS Landing page](https://github.com/Naveed-Bhatti1/smork-LandingPage)(Work in Progress)
+> 🖋 Minimal, Clean, and professional UI based SAAS Landing page site. 
+> ⚙️ **Tech:** Next.js 16, Framer-Motion
 
 ---
 
@@ -62,7 +66,7 @@
 
 ### 🎯 What I’m Up To
 - 🌱 Leveling up my **ASP.NET Core + SQL Server** skills  
-- 🎨 Designing a **personal portfolio** with Next.js & Tailwind  
+- 🎨 Designing a **personal portfolio** with Next.js & Tailwind
 - 📚 Exploring **UI/UX design principles** for better user experiences  
 
 ---
