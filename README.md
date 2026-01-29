@@ -30,12 +30,12 @@
 > ✂️ Minimal, fast URL shortener with analytics (WIP).  
 > ⚙️ **Tech:** Next.js 15, MongoDB Atlas
 
-#### 👤 [My Portfolio Site](https://github.com/Naveed-Bhatti1/My-Portfolio)(Work in Progress)
-> 🖋 Minimal, Clean, and professional UI based Single page site. 
-> ⚙️ **Tech:** Next.js 16, Framer-Motion
-
-#### 🧰 [smork - SAAS Landing page](https://github.com/Naveed-Bhatti1/smork-LandingPage)(Work in Progress)
+#### 🧰 [smork - SAAS Landing page](https://github.com/Naveed-Bhatti1/smork-LandingPage)
 > 🖋 Minimal, Clean, and professional UI based SAAS Landing page site. 
+> ⚙️ **Tech:** Next.js 16, Framer-Motion, Tailwind CSS
+
+#### 👤 My Portfolio Site (Work in Progress)
+> 🖋 Minimal, Clean, and professional UI based Single page site. 
 > ⚙️ **Tech:** Next.js 16, Framer-Motion
 
 ---
