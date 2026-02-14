@@ -34,7 +34,9 @@
 > 🖋 Minimal, Clean, and professional UI based SAAS Landing page site. 
 > ⚙️ **Tech:** Next.js 16, Framer-Motion, Tailwind CSS
 
-
+#### 🧰 [Notelyt – Note-Taking App Landing Page](https://github.com/Naveed-Bhatti1/Notelyt.git)
+> 🖋 Minimal, Clean, and professional UI based SAAS Landing page site. 
+> ⚙️ **Tech:** Next.js 16, Framer-Motion, Tailwind CSS
 ---
 
 ### 📊 GitHub Stats
